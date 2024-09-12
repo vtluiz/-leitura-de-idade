@@ -1,0 +1,8 @@
+# leitura da idade
+idade = int(input("digite sua idade: "))
+
+# verificação de maioridade
+se idade >= 18:
+    print("você é maior de idade.")
+outro:
+    print("você é menor de idade.")
